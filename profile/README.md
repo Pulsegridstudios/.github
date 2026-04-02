@@ -71,7 +71,7 @@ We are open to collaboration with developers, designers, and contributors who sh
 🔗 Links
 
 - 🌐 Wiki: https://pulsegridstudios.github.io/wiki
-- 🎮 Roblox: https://www.roblox.com/
+- 🎮 Roblox: https://www.roblox.com/games/103236484372211/Looped-Operation
 - 📦 Projects: See repositories below
 
 ---
